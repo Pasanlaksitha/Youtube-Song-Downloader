@@ -3,7 +3,7 @@ import json
 import youtube_dl
 import os
 
-os.chdir('D:/Projects/Python/Spotify/songs2')
+os.chdir('') #give specific location u need
 
 
 def youtube(name, link):
